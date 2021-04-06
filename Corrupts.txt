@@ -1,0 +1,7 @@
+CorruptsHub Bypass Bot Instant Play method:
+Header: https://cdn.discordapp.com/attachments/803299518128455710/829042297354059796/header_1.ogg
+Bait: https://cdn.discordapp.com/attachments/803299518128455710/829042329268125696/bait_1.ogg
+1. Export your audio you want to bypass as a regular mp3 (44100 project rate)
+2. Add the header ontop of your exported file in notepad++ (using the copy and paste binary content tools)
+3. Add the provided bait onto the end of the file
+4. Save as a .ogg extension
