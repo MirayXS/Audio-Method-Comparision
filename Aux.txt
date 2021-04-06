@@ -1,5 +1,6 @@
 Our altbypass/Regular Bypass method:
 Header: https://cdn.discordapp.com/attachments/803299518128455710/829042367587811348/headr.ogg
+Bait: https://cdn.discordapp.com/attachments/780273736518598666/824443227818033172/PS2_Bait.mp3
 1. Export your bypass as a 44100 project rate file. either as a mov (libmp3lame codec using audacity's ffmpeg moduke) or as a regular mp3
 2. Open notepad++ and add the header ontop of the bypass file (without a newline after the header) using the copy and pate binary content buttons
 3. Add one of the baits provided at the end (after a newline at the end of the bypass)
